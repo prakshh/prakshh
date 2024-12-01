@@ -6,7 +6,6 @@
 - 💬 I love discussions about Tech and Trends.  
 - 📫 Mail me : prakashdas18@gmail.com
 - &#128214; Read my blogs : https://prakshh.hashnode.dev/
-- &#127760; Portfolio : https://prakshh.netlify.app/
 
 <h3 align="left">Languages, libraries and frameworks I use :</h3>
 <div align="left">
