@@ -10,7 +10,7 @@
 
 <h3 align="left">Languages, libraries and frameworks I use :</h3>
 <div align="left">
-    <img width="250" src="https://skillicons.dev/icons?i=nextjs,aws,postgresql,redux,tailwind,typescript"/>
+    <img width="250" src="https://skillicons.dev/icons?i=nextjs,aws,postgresql,redux,tailwind,typescript"/><br>
     <img width="250" src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,javascript"/><br>
 </div>
 
@@ -25,3 +25,6 @@
     <a href="https://x.com/prakshh18" target="blank"><img align="center" src="https://github.com/prakshh/assets/blob/main/svgAssets/socials/twitter-svgrepo-com.svg" alt="twitter" height="50" width="60" /></a>
     <a href="https://www.linkedin.com/in/prakashdas18/" target="blank"><img align="center" src="https://github.com/prakshh/assets/blob/main/svgAssets/socials/linkedin-svgrepo-com.svg" alt="linkedin" height="50" width="60" /></a>
 </p>
+
+
+![Prakash's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=prakshh&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,&rank_icon=percentile&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only)
